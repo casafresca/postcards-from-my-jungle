@@ -1,0 +1,130 @@
+[
+  {
+    "file": "sounds/call-01.wav",
+    "duration": 2.0,
+    "sample_rate": 16000,
+    "peak": 0.8499755859375,
+    "rms": 0.1391938490348632,
+    "sha256": "2a17be1c32ee03edea618d5f9c9fc9b1855109a56c1eb9cecc225e775a161795"
+  },
+  {
+    "file": "sounds/call-02.wav",
+    "duration": 2.5,
+    "sample_rate": 16000,
+    "peak": 0.74859619140625,
+    "rms": 0.691992930674958,
+    "sha256": "ce9d6d21e9ac155c422f6b646a73e0f48482d6785bbe2f3004e6ecd4d103aec0"
+  },
+  {
+    "file": "sounds/call-03.wav",
+    "duration": 3.0,
+    "sample_rate": 16000,
+    "peak": 0.850006103515625,
+    "rms": 0.051513631029700406,
+    "sha256": "62696abb7e417ca73124c13208402f58ab3eebc07e7650292a262b9ab167a3ba"
+  },
+  {
+    "file": "sounds/call-04.wav",
+    "duration": 3.5,
+    "sample_rate": 16000,
+    "peak": 0.8499755859375,
+    "rms": 0.028654560624610328,
+    "sha256": "e2e7499470fe0fc4c987d705892562f8b5e594eaa378f782ce9eba60035dd2b5"
+  },
+  {
+    "file": "sounds/call-05.wav",
+    "duration": 4.0,
+    "sample_rate": 16000,
+    "peak": 0.850006103515625,
+    "rms": 0.011327921350036957,
+    "sha256": "3beae24d3f1fcc7454f71121bc1c35b0fc964d043080a88fba45de5ec745614c"
+  },
+  {
+    "file": "sounds/call-06.wav",
+    "duration": 4.5,
+    "sample_rate": 16000,
+    "peak": 0.850006103515625,
+    "rms": 0.05950285092630532,
+    "sha256": "f562bd0e9cedb95c6bb399105ffa5314191d03491e54688f7ce5ee75531b06a9"
+  },
+  {
+    "file": "sounds/call-07.wav",
+    "duration": 5.0,
+    "sample_rate": 16000,
+    "peak": 0.8499755859375,
+    "rms": 0.03660355208061506,
+    "sha256": "02d51986704fb371d21ddc0e8336fd30c590af004d0f5d26b6bd834b1b16c175"
+  },
+  {
+    "file": "sounds/call-08.wav",
+    "duration": 5.5,
+    "sample_rate": 16000,
+    "peak": 0.8499755859375,
+    "rms": 0.029399971851461437,
+    "sha256": "de1f9ffa8b94431e2b75ee4458e270bd677362797e0665cafc996260e4187bf7"
+  },
+  {
+    "file": "sounds/call-09.wav",
+    "duration": 6.0,
+    "sample_rate": 16000,
+    "peak": 0.8499755859375,
+    "rms": 0.08432371047056297,
+    "sha256": "3013a6a8a173cd497bacce4ce526c5861327349542c6080e07d97036eb3d8ebf"
+  },
+  {
+    "file": "sounds/call-10.wav",
+    "duration": 6.5,
+    "sample_rate": 16000,
+    "peak": 0.850006103515625,
+    "rms": 0.03294592948913871,
+    "sha256": "821851aa69ecc43220a0a34586c704ddb6215f32ea1d7507a4efc96f7698af88"
+  },
+  {
+    "file": "sounds/call-11.wav",
+    "duration": 7.0,
+    "sample_rate": 16000,
+    "peak": 0.850006103515625,
+    "rms": 0.04569711659140293,
+    "sha256": "c89d8231dcfa7ea6017bb410608b7dea3eb171dfca5699957732e4e9992f8d22"
+  },
+  {
+    "file": "sounds/call-12.wav",
+    "duration": 7.5,
+    "sample_rate": 16000,
+    "peak": 0.424346923828125,
+    "rms": 0.013105642433763774,
+    "sha256": "f7d3ffbd1548bdb63e2f740fb2057bce8235764bdac82323d2bf1b6ad4fcd765"
+  },
+  {
+    "file": "sounds/call-13.wav",
+    "duration": 8.0,
+    "sample_rate": 16000,
+    "peak": 0.850006103515625,
+    "rms": 0.04155514491845704,
+    "sha256": "2c9354d4798c2ff6af2833f2c1e35edf2b1edc10e77a5f0b85acf5ec528ccc9e"
+  },
+  {
+    "file": "sounds/call-14.wav",
+    "duration": 8.5,
+    "sample_rate": 16000,
+    "peak": 0.8499755859375,
+    "rms": 0.03750354324984847,
+    "sha256": "50316f2209b195770995ae8a326d7a95d380fe342475a5a5a9a2356478096787"
+  },
+  {
+    "file": "sounds/call-15.wav",
+    "duration": 9.0,
+    "sample_rate": 16000,
+    "peak": 0.850006103515625,
+    "rms": 0.01833064985185992,
+    "sha256": "396cf85abdfda29870d62b733b814d6a4f33841ad92d1724d9350b7a26849951"
+  },
+  {
+    "file": "sounds/call-16.wav",
+    "duration": 9.5,
+    "sample_rate": 16000,
+    "peak": 0.8499755859375,
+    "rms": 0.07712004167953733,
+    "sha256": "068746c6506628a44f910be935d8c5af1a5b9de5c427f83c6c477a917ab009d6"
+  }
+]

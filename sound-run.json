@@ -1,0 +1,136 @@
+{
+  "model": "cvssp/audioldm-s-full-v2",
+  "steps": 50,
+  "guidance": 2.5,
+  "sample_rate": 16000,
+  "clips": [
+    {
+      "specimen": 1,
+      "prompt": "Close recording of a fictional jungle animal: soft fox chirps mixed with fluttering moth wings, three gentle rising calls. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 2,
+      "seed": 20001,
+      "peak_before_normalization": 0.004810333251953125,
+      "seconds": 3.040808916091919
+    },
+    {
+      "specimen": 2,
+      "prompt": "Close recording of a fictional jungle animal: delicate glassy insect trills and short airy wing flutters. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 2.5,
+      "seed": 20002,
+      "peak_before_normalization": 0.0002238750457763672,
+      "seconds": 3.0182387828826904
+    },
+    {
+      "specimen": 3,
+      "prompt": "Close recording of a fictional jungle animal: deep hollow frog croaks, slow bubbling pulses with wet resonant texture. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 3,
+      "seed": 20003,
+      "peak_before_normalization": 0.10888671875,
+      "seconds": 3.062278985977173
+    },
+    {
+      "specimen": 4,
+      "prompt": "Close recording of a fictional jungle animal: soft fluttering, tiny warm bell-like peeps, irregular gentle pulses. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 3.5,
+      "seed": 20004,
+      "peak_before_normalization": 0.0268707275390625,
+      "seconds": 3.00533390045166
+    },
+    {
+      "specimen": 5,
+      "prompt": "Close recording of a fictional jungle animal: low woody creaking calls, soft turtle grunts and dry bark clicks. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 4,
+      "seed": 20005,
+      "peak_before_normalization": 0.64453125,
+      "seconds": 3.0637240409851074
+    },
+    {
+      "specimen": 6,
+      "prompt": "Close recording of a fictional jungle animal: airy lemur coos, breathy rising whistles and a faint purr. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 4.5,
+      "seed": 20006,
+      "peak_before_normalization": 0.019775390625,
+      "seconds": 3.1318490505218506
+    },
+    {
+      "specimen": 7,
+      "prompt": "Close recording of a fictional jungle animal: quick reed bird chirps, hollow beak clicks, staccato watery tweets. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 5,
+      "seed": 20007,
+      "peak_before_normalization": 0.5712890625,
+      "seconds": 3.2196569442749023
+    },
+    {
+      "specimen": 8,
+      "prompt": "Close recording of a fictional jungle animal: raspy kitten chatter and soft liquid purring with isolated droplets. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 5.5,
+      "seed": 20008,
+      "peak_before_normalization": 0.1907958984375,
+      "seconds": 3.2523086071014404
+    },
+    {
+      "specimen": 9,
+      "prompt": "Close recording of a fictional jungle animal: low rounded bird hoots followed by two mellow flute whistles. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 6,
+      "seed": 20009,
+      "peak_before_normalization": 0.362060546875,
+      "seconds": 3.4564766883850098
+    },
+    {
+      "specimen": 10,
+      "prompt": "Close recording of a fictional jungle animal: tiny high mouse squeaks and soft mushroom-like popping clicks. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 6.5,
+      "seed": 20010,
+      "peak_before_normalization": 0.79638671875,
+      "seconds": 3.440702199935913
+    },
+    {
+      "specimen": 11,
+      "prompt": "Close recording of a fictional jungle animal: gentle deer bleats with hollow underwater gurgles and soft snorts. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 7,
+      "seed": 20011,
+      "peak_before_normalization": 0.249267578125,
+      "seconds": 3.5517828464508057
+    },
+    {
+      "specimen": 12,
+      "prompt": "Close recording of a fictional jungle animal: very slow breathy sloth calls, soft descending hums and distant echoes. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 7.5,
+      "seed": 20012,
+      "peak_before_normalization": 0.244873046875,
+      "seconds": 3.637038230895996
+    },
+    {
+      "specimen": 13,
+      "prompt": "Close recording of a fictional jungle animal: submerged croaks, gentle water bubbles, low fish-like drumming pulses. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 8,
+      "seed": 20013,
+      "peak_before_normalization": 0.50439453125,
+      "seconds": 3.6975202560424805
+    },
+    {
+      "specimen": 14,
+      "prompt": "Close recording of a fictional jungle animal: short bat-like chirps shifted into audible range, dry fluttering wings. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 8.5,
+      "seed": 20014,
+      "peak_before_normalization": 0.6064453125,
+      "seconds": 3.769695520401001
+    },
+    {
+      "specimen": 15,
+      "prompt": "Close recording of a fictional jungle animal: delicate wet clicks, soft sliding squeaks and rounded tiny bubbles. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 9,
+      "seed": 20015,
+      "peak_before_normalization": 0.54833984375,
+      "seconds": 3.972219467163086
+    },
+    {
+      "specimen": 16,
+      "prompt": "Close recording of a fictional jungle animal: deep gentle bear murmurs, warm breathy rumbles ending in a soft hum. Isolated creature vocalization, organic texture, clear foreground, no music or human speech.",
+      "duration": 9.5,
+      "seed": 20016,
+      "peak_before_normalization": 0.1539306640625,
+      "seconds": 4.02607536315918
+    }
+  ]
+}

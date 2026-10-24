@@ -1,1 +1,352 @@
-[]
+[
+  {
+    "src": "images/animal-001.png",
+    "specimen": 1,
+    "kind": "trained",
+    "seed": 10000,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-002.png",
+    "specimen": 2,
+    "kind": "trained",
+    "seed": 10001,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-003.png",
+    "specimen": 3,
+    "kind": "trained",
+    "seed": 10002,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-004.png",
+    "specimen": 4,
+    "kind": "trained",
+    "seed": 10003,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-005.png",
+    "specimen": 5,
+    "kind": "trained",
+    "seed": 10004,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-006.png",
+    "specimen": 6,
+    "kind": "trained",
+    "seed": 10005,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-007.png",
+    "specimen": 7,
+    "kind": "trained",
+    "seed": 10006,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-008.png",
+    "specimen": 8,
+    "kind": "trained",
+    "seed": 10007,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-009.png",
+    "specimen": 9,
+    "kind": "trained",
+    "seed": 10008,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-010.png",
+    "specimen": 10,
+    "kind": "trained",
+    "seed": 10009,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-011.png",
+    "specimen": 11,
+    "kind": "trained",
+    "seed": 10010,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-012.png",
+    "specimen": 12,
+    "kind": "trained",
+    "seed": 10011,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-013.png",
+    "specimen": 13,
+    "kind": "trained",
+    "seed": 10012,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-014.png",
+    "specimen": 14,
+    "kind": "trained",
+    "seed": 10013,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-015.png",
+    "specimen": 15,
+    "kind": "trained",
+    "seed": 10014,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-016.png",
+    "specimen": 16,
+    "kind": "trained",
+    "seed": 10015,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-017.png",
+    "specimen": 1,
+    "kind": "trained",
+    "seed": 10016,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-018.png",
+    "specimen": 2,
+    "kind": "trained",
+    "seed": 10017,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-019.png",
+    "specimen": 3,
+    "kind": "trained",
+    "seed": 10018,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-020.png",
+    "specimen": 4,
+    "kind": "trained",
+    "seed": 10019,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-021.png",
+    "specimen": 5,
+    "kind": "trained",
+    "seed": 10020,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-022.png",
+    "specimen": 6,
+    "kind": "trained",
+    "seed": 10021,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-023.png",
+    "specimen": 7,
+    "kind": "trained",
+    "seed": 10022,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-024.png",
+    "specimen": 8,
+    "kind": "trained",
+    "seed": 10023,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-025.png",
+    "specimen": 9,
+    "kind": "trained",
+    "seed": 10024,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-026.png",
+    "specimen": 10,
+    "kind": "trained",
+    "seed": 10025,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-027.png",
+    "specimen": 11,
+    "kind": "trained",
+    "seed": 10026,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-028.png",
+    "specimen": 12,
+    "kind": "trained",
+    "seed": 10027,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-029.png",
+    "specimen": 13,
+    "kind": "trained",
+    "seed": 10028,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-030.png",
+    "specimen": 14,
+    "kind": "trained",
+    "seed": 10029,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-031.png",
+    "specimen": 15,
+    "kind": "trained",
+    "seed": 10030,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-032.png",
+    "specimen": 16,
+    "kind": "trained",
+    "seed": 10031,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-033.png",
+    "specimen": 1,
+    "kind": "trained",
+    "seed": 10032,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-034.png",
+    "specimen": 2,
+    "kind": "trained",
+    "seed": 10033,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-035.png",
+    "specimen": 3,
+    "kind": "trained",
+    "seed": 10034,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-036.png",
+    "specimen": 4,
+    "kind": "trained",
+    "seed": 10035,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-037.png",
+    "specimen": 5,
+    "kind": "trained",
+    "seed": 10036,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-038.png",
+    "specimen": 6,
+    "kind": "trained",
+    "seed": 10037,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-039.png",
+    "specimen": 7,
+    "kind": "trained",
+    "seed": 10038,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-040.png",
+    "specimen": 8,
+    "kind": "trained",
+    "seed": 10039,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-041.png",
+    "specimen": 9,
+    "kind": "trained",
+    "seed": 10040,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-042.png",
+    "specimen": 10,
+    "kind": "trained",
+    "seed": 10041,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-043.png",
+    "specimen": 11,
+    "kind": "trained",
+    "seed": 10042,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-044.png",
+    "specimen": 12,
+    "kind": "trained",
+    "seed": 10043,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-045.png",
+    "specimen": 13,
+    "kind": "trained",
+    "seed": 10044,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-046.png",
+    "specimen": 14,
+    "kind": "trained",
+    "seed": 10045,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-047.png",
+    "specimen": 15,
+    "kind": "trained",
+    "seed": 10046,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-048.png",
+    "specimen": 16,
+    "kind": "trained",
+    "seed": 10047,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-049.png",
+    "specimen": 1,
+    "kind": "trained",
+    "seed": 10048,
+    "run": "longer-training-64"
+  },
+  {
+    "src": "images/animal-050.png",
+    "specimen": 2,
+    "kind": "trained",
+    "seed": 10049,
+    "run": "longer-training-64"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "config": {
+    "name": "small-32",
+    "count": 500,
+    "resolution": 32,
+    "epochs": 5
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "training_loss": 0.9530479202270508,
+      "validation_loss": 0.7821120917797089,
+      "seconds": 6.422422170639038
+    },
+    {
+      "epoch": 2,
+      "training_loss": 0.6718913388252258,
+      "validation_loss": 0.5588589459657669,
+      "seconds": 4.245055675506592
+    },
+    {
+      "epoch": 3,
+      "training_loss": 0.49046513652801516,
+      "validation_loss": 0.4179772362112999,
+      "seconds": 2.6183624267578125
+    },
+    {
+      "epoch": 4,
+      "training_loss": 0.37439305686950686,
+      "validation_loss": 0.335238054394722,
+      "seconds": 2.5233426094055176
+    },
+    {
+      "epoch": 5,
+      "training_loss": 0.31502522349357603,
+      "validation_loss": 0.28395475447177887,
+      "seconds": 2.5323855876922607
+    }
+  ]
+}

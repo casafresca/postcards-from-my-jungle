@@ -1,0 +1,40 @@
+{
+  "config": {
+    "name": "higher-resolution-64",
+    "count": 1000,
+    "resolution": 64,
+    "epochs": 5
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "training_loss": 0.8051185541152954,
+      "validation_loss": 0.5470066964626312,
+      "seconds": 5.188422679901123
+    },
+    {
+      "epoch": 2,
+      "training_loss": 0.41128460359573366,
+      "validation_loss": 0.3123956695199013,
+      "seconds": 4.660389184951782
+    },
+    {
+      "epoch": 3,
+      "training_loss": 0.2597887513637543,
+      "validation_loss": 0.22416852042078972,
+      "seconds": 4.631420850753784
+    },
+    {
+      "epoch": 4,
+      "training_loss": 0.20229484391212463,
+      "validation_loss": 0.1849096491932869,
+      "seconds": 4.7072837352752686
+    },
+    {
+      "epoch": 5,
+      "training_loss": 0.17769916892051696,
+      "validation_loss": 0.1646236889064312,
+      "seconds": 4.732262134552002
+    }
+  ]
+}

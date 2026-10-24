@@ -1,0 +1,40 @@
+{
+  "config": {
+    "name": "more-data-32",
+    "count": 1000,
+    "resolution": 32,
+    "epochs": 5
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "training_loss": 0.8161377038955688,
+      "validation_loss": 0.5607763528823853,
+      "seconds": 4.4730987548828125
+    },
+    {
+      "epoch": 2,
+      "training_loss": 0.4359483337402344,
+      "validation_loss": 0.33589156717061996,
+      "seconds": 4.272679328918457
+    },
+    {
+      "epoch": 3,
+      "training_loss": 0.29163423013687134,
+      "validation_loss": 0.25099413096904755,
+      "seconds": 4.190407752990723
+    },
+    {
+      "epoch": 4,
+      "training_loss": 0.22558535706996918,
+      "validation_loss": 0.21260356158018112,
+      "seconds": 4.288854360580444
+    },
+    {
+      "epoch": 5,
+      "training_loss": 0.19433834600448607,
+      "validation_loss": 0.19172125682234764,
+      "seconds": 4.156488656997681
+    }
+  ]
+}

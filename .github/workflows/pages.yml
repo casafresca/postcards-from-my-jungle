@@ -1,0 +1,33 @@
+name: Deploy jungle to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Stage website
+        run: |
+          mkdir -p _site
+          cp index.html style.css script.js data.js image-manifest.json sound-manifest.json README.md LANGUAGE.md ASSET-CREDITS.md image-generation.ipynb sound-generation.ipynb _site/
+          cp -r images sounds _site/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

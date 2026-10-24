@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "specimen": 1,
+    "src": "sounds/call-01.wav",
+    "duration": 2,
+    "seed": 20001,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 2,
+    "src": "sounds/call-02.wav",
+    "duration": 2.5,
+    "seed": 20002,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 3,
+    "src": "sounds/call-03.wav",
+    "duration": 3,
+    "seed": 20003,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 4,
+    "src": "sounds/call-04.wav",
+    "duration": 3.5,
+    "seed": 20004,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 5,
+    "src": "sounds/call-05.wav",
+    "duration": 4,
+    "seed": 20005,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 6,
+    "src": "sounds/call-06.wav",
+    "duration": 4.5,
+    "seed": 20006,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 7,
+    "src": "sounds/call-07.wav",
+    "duration": 5,
+    "seed": 20007,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 8,
+    "src": "sounds/call-08.wav",
+    "duration": 5.5,
+    "seed": 20008,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 9,
+    "src": "sounds/call-09.wav",
+    "duration": 6,
+    "seed": 20009,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 10,
+    "src": "sounds/call-10.wav",
+    "duration": 6.5,
+    "seed": 20010,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 11,
+    "src": "sounds/call-11.wav",
+    "duration": 7,
+    "seed": 20011,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 12,
+    "src": "sounds/call-12.wav",
+    "duration": 7.5,
+    "seed": 20012,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 13,
+    "src": "sounds/call-13.wav",
+    "duration": 8,
+    "seed": 20013,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 14,
+    "src": "sounds/call-14.wav",
+    "duration": 8.5,
+    "seed": 20014,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 15,
+    "src": "sounds/call-15.wav",
+    "duration": 9,
+    "seed": 20015,
+    "model": "cvssp/audioldm-s-full-v2"
+  },
+  {
+    "specimen": 16,
+    "src": "sounds/call-16.wav",
+    "duration": 9.5,
+    "seed": 20016,
+    "model": "cvssp/audioldm-s-full-v2"
+  }
+]

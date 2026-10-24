@@ -1,0 +1,68 @@
+{
+  "status": "completed",
+  "dataset": "huggan/AFHQ",
+  "dataset_fingerprint": "59f7316e13fb146f",
+  "seed": 498,
+  "selected_run": "longer-training-64",
+  "experiments": [
+    {
+      "config": {
+        "name": "small-32",
+        "count": 500,
+        "resolution": 32,
+        "epochs": 5
+      },
+      "last": {
+        "epoch": 5,
+        "training_loss": 0.31502522349357603,
+        "validation_loss": 0.28395475447177887,
+        "seconds": 2.5323855876922607
+      }
+    },
+    {
+      "config": {
+        "name": "more-data-32",
+        "count": 1000,
+        "resolution": 32,
+        "epochs": 5
+      },
+      "last": {
+        "epoch": 5,
+        "training_loss": 0.19433834600448607,
+        "validation_loss": 0.19172125682234764,
+        "seconds": 4.156488656997681
+      }
+    },
+    {
+      "config": {
+        "name": "higher-resolution-64",
+        "count": 1000,
+        "resolution": 64,
+        "epochs": 5
+      },
+      "last": {
+        "epoch": 5,
+        "training_loss": 0.17769916892051696,
+        "validation_loss": 0.1646236889064312,
+        "seconds": 4.732262134552002
+      }
+    },
+    {
+      "config": {
+        "name": "longer-training-64",
+        "count": 1000,
+        "resolution": 64,
+        "epochs": 200
+      },
+      "last": {
+        "epoch": 200,
+        "training_loss": 0.051101015269756314,
+        "validation_loss": 0.05754020810127258,
+        "seconds": 4.984414100646973
+      }
+    }
+  ],
+  "torch": "2.11.0+cu130",
+  "gpu": "Tesla T4",
+  "count": 50
+}
