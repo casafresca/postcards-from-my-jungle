@@ -1,2 +1,11 @@
-# postcards-from-my-jungle
-The Viridian Archive — a lo-fi generative jungle of imagined fauna, calls, and language.
+# Postcards from my jungle
+
+The Viridian Archive is a fictional jungle presented as a nocturnal field journal. Warm paper, deep green foliage, and a deliberately soft photographic texture frame a collection of impossible inhabitants. Visitors can browse postcards, reveal translations, and play each creature’s call. Sixteen language entries establish a shared vocabulary of light, rain, home, listening, and togetherness.
+
+The image notebook prepares four controlled diffusion experiments using real animal faces from Hugging Face’s AFHQ mirror. A small unconditional DDPM learns to predict noise added to normalized RGB images. The planned comparisons change dataset size from 500 to 1,000 examples, resolution from 32 to 64 pixels, and training duration from five to twenty epochs. A separate holdout tracks noise prediction loss. Fixed sampling seeds support visual comparisons, while checkpoints and metadata record the actual runs. The selected model exports fifty PNG images. Because generation is unconditional, the fictional creature names are interpretations rather than reliable visual instructions.
+
+The sound notebook uses the pre-trained AudioLDM small full v2 diffusion model. Sixteen prompts describe contrasting chirps, croaks, clicks, murmurs, and wing textures, with durations from two to nine-and-a-half seconds. Outputs receive short fades and conservative peak control. The invented language was generated through structured instructions to Codex, using a compact lexicon and consistent short phrases; it does not represent a real language.
+
+Quality could improve through larger and more varied licensed datasets, longer training, stronger pretrained image models, and careful comparison of anatomy, diversity, and memorization. Audio should be auditioned for unwanted speech, music, repetition, and distortion, then regenerated with revised prompts or seeds where needed.
+
+AI assistance: the free version of OpenAI Codex assisted with code, notebooks, language, and documentation. Its built-in image generation tool supplied the separate Fernfox concept illustration. That concept is not evidence of diffusion training. At preparation time, training results, audio outputs, and deployment remain pending; this description must be updated with observed outcomes before submission.

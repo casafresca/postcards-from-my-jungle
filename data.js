@@ -1,0 +1,178 @@
+window.JUNGLE = [
+  {
+    "id": 1,
+    "name": "Fernfox",
+    "latin": "Vulpes frondis",
+    "habitat": "The moss understory",
+    "description": "A quiet keeper of damp places. It gathers fallen light in its feathery ruff, then leaves a little behind for anything afraid of the dark.",
+    "phrase": "Mi luma na.",
+    "translation": "I carry light home.",
+    "soundPrompt": "soft fox chirps mixed with fluttering moth wings, three gentle rising calls",
+    "duration": 2
+  },
+  {
+    "id": 2,
+    "name": "Glasswing",
+    "latin": "Papilio vitrea",
+    "habitat": "The upper canopy",
+    "description": "A translucent wanderer that catches the colour of whatever it passes. When the rain stops, its wings remember the sound.",
+    "phrase": "Ti shiri ru.",
+    "translation": "You sing with the rain.",
+    "soundPrompt": "delicate glassy insect trills and short airy wing flutters",
+    "duration": 2.5
+  },
+  {
+    "id": 3,
+    "name": "Velvet Croaker",
+    "latin": "Rana velutina",
+    "habitat": "The stillwater pools",
+    "description": "Round as a river stone, soft as a fern. It answers distant thunder with a voice much larger than its small body.",
+    "phrase": "Mi moru ru.",
+    "translation": "I listen to the rain.",
+    "soundPrompt": "deep hollow frog croaks, slow bubbling pulses with wet resonant texture",
+    "duration": 3
+  },
+  {
+    "id": 4,
+    "name": "Lantern Moth",
+    "latin": "Noctua lucerna",
+    "habitat": "The lantern grove",
+    "description": "Its belly glows like the last warm window in a sleeping village. Other creatures follow it home without ever asking the way.",
+    "phrase": "Luma na sa.",
+    "translation": "Light and home are together.",
+    "soundPrompt": "soft fluttering, tiny warm bell-like peeps, irregular gentle pulses",
+    "duration": 3.5
+  },
+  {
+    "id": 5,
+    "name": "Rootback",
+    "latin": "Testudo radix",
+    "habitat": "The root tangle",
+    "description": "A patient creature wearing a whole miniature forest. Nobody remembers where the animal ends and the garden begins.",
+    "phrase": "Mi na moru.",
+    "translation": "I listen at home.",
+    "soundPrompt": "low woody creaking calls, soft turtle grunts and dry bark clicks",
+    "duration": 4
+  },
+  {
+    "id": 6,
+    "name": "Cloud Lemur",
+    "latin": "Lemur nebula",
+    "habitat": "The mist canopy",
+    "description": "It rests in the highest branches and knots the morning fog into little nests. Its tail is always the last thing to disappear.",
+    "phrase": "Mi shiri luma.",
+    "translation": "I sing to the light.",
+    "soundPrompt": "airy lemur coos, breathy rising whistles and a faint purr",
+    "duration": 4.5
+  },
+  {
+    "id": 7,
+    "name": "Reedrunner",
+    "latin": "Avis arundinis",
+    "habitat": "The reed margins",
+    "description": "All legs, almost no weight. It moves across the marsh so lightly that the water notices only after it has gone.",
+    "phrase": "Ti ru na.",
+    "translation": "You bring rain home.",
+    "soundPrompt": "quick reed bird chirps, hollow beak clicks, staccato watery tweets",
+    "duration": 5
+  },
+  {
+    "id": 8,
+    "name": "Puddle Lynx",
+    "latin": "Lynx pluvia",
+    "habitat": "The rain gardens",
+    "description": "It watches its reflection until the reflection blinks first. Its whiskers ripple whenever a storm is still a long way off.",
+    "phrase": "Mi moru ti.",
+    "translation": "I am listening to you.",
+    "soundPrompt": "raspy kitten chatter and soft liquid purring with isolated droplets",
+    "duration": 5.5
+  },
+  {
+    "id": 9,
+    "name": "Moonbill",
+    "latin": "Avis lunaris",
+    "habitat": "The moonlit clearing",
+    "description": "A crescent beak and an appetite for silver fruit. Every evening it tells the moon what happened while she was away.",
+    "phrase": "Luma shiri sa.",
+    "translation": "The lights sing together.",
+    "soundPrompt": "low rounded bird hoots followed by two mellow flute whistles",
+    "duration": 6
+  },
+  {
+    "id": 10,
+    "name": "Sporemouse",
+    "latin": "Mus spora",
+    "habitat": "The mushroom floor",
+    "description": "Smaller than a curled leaf, it sleeps inside abandoned seed pods. A trail of tiny glowing footprints gives its hiding place away.",
+    "phrase": "Mi na luma.",
+    "translation": "My home is bright.",
+    "soundPrompt": "tiny high mouse squeaks and soft mushroom-like popping clicks",
+    "duration": 6.5
+  },
+  {
+    "id": 11,
+    "name": "Coral Antler",
+    "latin": "Cervus corallium",
+    "habitat": "The flooded orchard",
+    "description": "Its antlers bloom after every rainfall. Beneath the water, tiny fish mistake its legs for the roots of a wandering tree.",
+    "phrase": "Ru luma sa.",
+    "translation": "Rain and light meet.",
+    "soundPrompt": "gentle deer bleats with hollow underwater gurgles and soft snorts",
+    "duration": 7
+  },
+  {
+    "id": 12,
+    "name": "Echo Sloth",
+    "latin": "Bradypus sonorus",
+    "habitat": "The hanging gardens",
+    "description": "It takes a whole afternoon to answer a greeting. The forest is patient enough to wait, and always glad when it finally replies.",
+    "phrase": "Mi moru sa.",
+    "translation": "I listen with everyone.",
+    "soundPrompt": "very slow breathy sloth calls, soft descending hums and distant echoes",
+    "duration": 7.5
+  },
+  {
+    "id": 13,
+    "name": "Thornfin",
+    "latin": "Piscis spina",
+    "habitat": "The blackwater stream",
+    "description": "It drifts beneath floating leaves with its fins folded like letters. At dusk it surfaces to read the ripples.",
+    "phrase": "Ru shiri na.",
+    "translation": "Rain sings of home.",
+    "soundPrompt": "submerged croaks, gentle water bubbles, low fish-like drumming pulses",
+    "duration": 8
+  },
+  {
+    "id": 14,
+    "name": "Bramble Bat",
+    "latin": "Vesper rubus",
+    "habitat": "The tangled hollow",
+    "description": "Wrapped in its own wings, it resembles a small sleeping fruit. It navigates by asking the darkness very polite questions.",
+    "phrase": "Ti luma mi.",
+    "translation": "You are my light.",
+    "soundPrompt": "short bat-like chirps shifted into audible range, dry fluttering wings",
+    "duration": 8.5
+  },
+  {
+    "id": 15,
+    "name": "Dew Snail",
+    "latin": "Helix ros",
+    "habitat": "The fern spiral",
+    "description": "A slow collector of morning. The dew on its shell stays cool until sunset, when it shares a sip with the roots.",
+    "phrase": "Mi ru sa.",
+    "translation": "I share the rain.",
+    "soundPrompt": "delicate wet clicks, soft sliding squeaks and rounded tiny bubbles",
+    "duration": 9
+  },
+  {
+    "id": 16,
+    "name": "Hushbear",
+    "latin": "Ursus quietus",
+    "habitat": "The far green",
+    "description": "The largest creature in the archive has the smallest voice. It sings only when the rest of the jungle has fallen asleep.",
+    "phrase": "Na moru mi.",
+    "translation": "Home is listening for me.",
+    "soundPrompt": "deep gentle bear murmurs, warm breathy rumbles ending in a soft hum",
+    "duration": 9.5
+  }
+];

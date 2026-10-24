@@ -1,0 +1,7 @@
+node_modules/
+_site/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+experiments/*/model/
+experiments/*/checkpoint.pt

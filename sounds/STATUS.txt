@@ -1,0 +1,1 @@
+Model-generated assets are being prepared in Colab. See SETUP.md for the current status.
